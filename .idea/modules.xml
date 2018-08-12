@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lottery.iml" filepath="$PROJECT_DIR$/.idea/modules/lottery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lottery_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lottery_main.iml" group="lottery" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lottery_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lottery_test.iml" group="lottery" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thymeleaf.iml" filepath="$PROJECT_DIR$/.idea/modules/thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thymeleaf_main.iml" filepath="$PROJECT_DIR$/.idea/modules/thymeleaf_main.iml" group="thymeleaf" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thymeleaf_test.iml" filepath="$PROJECT_DIR$/.idea/modules/thymeleaf_test.iml" group="thymeleaf" />
+    </modules>
+  </component>
+</project>
